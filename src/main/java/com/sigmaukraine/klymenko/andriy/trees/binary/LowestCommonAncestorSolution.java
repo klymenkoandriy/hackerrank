@@ -1,4 +1,4 @@
-package com.sigmaukraine.klymenko.andriy.trees;
+package com.sigmaukraine.klymenko.andriy.trees.binary;
 
 /**
  * Solution for <a href="https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=trees">Binary Search Tree : Lowest Common Ancestor</a>

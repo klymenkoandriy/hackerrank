@@ -1,4 +1,4 @@
-package com.sigmaukraine.klymenko.andriy.trees;
+package com.sigmaukraine.klymenko.andriy.trees.binary;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;

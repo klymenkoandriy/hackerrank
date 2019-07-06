@@ -1,4 +1,4 @@
-package com.sigmaukraine.klymenko.andriy.trees;
+package com.sigmaukraine.klymenko.andriy.trees.binary;
 
 public class Node {
 
