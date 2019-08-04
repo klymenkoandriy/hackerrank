@@ -1,6 +1,5 @@
 package com.sigmaukraine.klymenko.andriy.queues;
 
-import com.sigmaukraine.klymenko.andriy.strings.AlternatingCharactersSolution;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
