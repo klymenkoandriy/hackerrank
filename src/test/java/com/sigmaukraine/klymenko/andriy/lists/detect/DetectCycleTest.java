@@ -1,4 +1,4 @@
-package com.sigmaukraine.klymenko.andriy.lists;
+package com.sigmaukraine.klymenko.andriy.lists.detect;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;

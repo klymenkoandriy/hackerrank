@@ -1,4 +1,4 @@
-package com.sigmaukraine.klymenko.andriy.lists;
+package com.sigmaukraine.klymenko.andriy.lists.detect;
 
 import lombok.AllArgsConstructor;
 import lombok.Setter;
